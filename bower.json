@@ -1,0 +1,25 @@
+{
+  "name": "Wedwall",
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "Doody Hsieh"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.3.1",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.7"
+  }
+}
